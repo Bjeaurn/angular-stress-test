@@ -3,35 +3,55 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
-import { My000033Component } from './my.000033.component';
-import { My000034Component } from './my.000034.component';
-import { My000035Component } from './my.000035.component';
-import { My000036Component } from './my.000036.component';
-import { My000037Component } from './my.000037.component';
-import { My000038Component } from './my.000038.component';
-import { My000039Component } from './my.000039.component';
-import { My000040Component } from './my.000040.component';
-import { My000041Component } from './my.000041.component';
-import { My000042Component } from './my.000042.component';
-import { My000043Component } from './my.000043.component';
+import { My000063Component } from './my.000063.component';
+import { My000064Component } from './my.000064.component';
+import { My000065Component } from './my.000065.component';
+import { My000066Component } from './my.000066.component';
+import { My000067Component } from './my.000067.component';
+import { My000068Component } from './my.000068.component';
+import { My000069Component } from './my.000069.component';
+import { My000070Component } from './my.000070.component';
+import { My000071Component } from './my.000071.component';
+import { My000072Component } from './my.000072.component';
+import { My000073Component } from './my.000073.component';
+import { My000074Component } from './my.000074.component';
+import { My000075Component } from './my.000075.component';
+import { My000076Component } from './my.000076.component';
+import { My000077Component } from './my.000077.component';
+import { My000078Component } from './my.000078.component';
+import { My000079Component } from './my.000079.component';
+import { My000080Component } from './my.000080.component';
+import { My000081Component } from './my.000081.component';
+import { My000082Component } from './my.000082.component';
+import { My000083Component } from './my.000083.component';
 
 @NgModule({
   declarations: [
-    My000033Component,
-    My000034Component,
-    My000035Component,
-    My000036Component,
-    My000037Component,
-    My000038Component,
-    My000039Component,
-    My000040Component,
-    My000041Component,
-    My000042Component,
-    My000043Component,
+    My000063Component,
+    My000064Component,
+    My000065Component,
+    My000066Component,
+    My000067Component,
+    My000068Component,
+    My000069Component,
+    My000070Component,
+    My000071Component,
+    My000072Component,
+    My000073Component,
+    My000074Component,
+    My000075Component,
+    My000076Component,
+    My000077Component,
+    My000078Component,
+    My000079Component,
+    My000080Component,
+    My000081Component,
+    My000082Component,
+    My000083Component,
   ],
   imports: [CommonModule],
   exports: [
-    My000033Component,
+    My000063Component,
   ]
 })
 export class Module000003 { }

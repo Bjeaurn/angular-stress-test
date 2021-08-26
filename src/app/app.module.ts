@@ -13,6 +13,21 @@ import { Module000005 } from './Module000005/Module000005.module';
 import { Module000006 } from './Module000006/Module000006.module';
 import { Module000007 } from './Module000007/Module000007.module';
 import { Module000008 } from './Module000008/Module000008.module';
+import { Module000009 } from './Module000009/Module000009.module';
+import { Module000010 } from './Module000010/Module000010.module';
+import { Module000011 } from './Module000011/Module000011.module';
+import { Module000012 } from './Module000012/Module000012.module';
+import { Module000013 } from './Module000013/Module000013.module';
+import { Module000014 } from './Module000014/Module000014.module';
+import { Module000015 } from './Module000015/Module000015.module';
+import { Module000016 } from './Module000016/Module000016.module';
+import { Module000017 } from './Module000017/Module000017.module';
+import { Module000018 } from './Module000018/Module000018.module';
+import { Module000019 } from './Module000019/Module000019.module';
+import { Module000020 } from './Module000020/Module000020.module';
+import { Module000021 } from './Module000021/Module000021.module';
+import { Module000022 } from './Module000022/Module000022.module';
+import { Module000023 } from './Module000023/Module000023.module';
 
 
 @NgModule({
@@ -32,6 +47,21 @@ import { Module000008 } from './Module000008/Module000008.module';
     Module000006,
     Module000007,
     Module000008,
+    Module000009,
+    Module000010,
+    Module000011,
+    Module000012,
+    Module000013,
+    Module000014,
+    Module000015,
+    Module000016,
+    Module000017,
+    Module000018,
+    Module000019,
+    Module000020,
+    Module000021,
+    Module000022,
+    Module000023,
 ],
   bootstrap: [
     AppComponent

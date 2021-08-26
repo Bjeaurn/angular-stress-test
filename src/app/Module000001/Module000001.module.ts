@@ -3,35 +3,55 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
-import { My000011Component } from './my.000011.component';
-import { My000012Component } from './my.000012.component';
-import { My000013Component } from './my.000013.component';
-import { My000014Component } from './my.000014.component';
-import { My000015Component } from './my.000015.component';
-import { My000016Component } from './my.000016.component';
-import { My000017Component } from './my.000017.component';
-import { My000018Component } from './my.000018.component';
-import { My000019Component } from './my.000019.component';
-import { My000020Component } from './my.000020.component';
 import { My000021Component } from './my.000021.component';
+import { My000022Component } from './my.000022.component';
+import { My000023Component } from './my.000023.component';
+import { My000024Component } from './my.000024.component';
+import { My000025Component } from './my.000025.component';
+import { My000026Component } from './my.000026.component';
+import { My000027Component } from './my.000027.component';
+import { My000028Component } from './my.000028.component';
+import { My000029Component } from './my.000029.component';
+import { My000030Component } from './my.000030.component';
+import { My000031Component } from './my.000031.component';
+import { My000032Component } from './my.000032.component';
+import { My000033Component } from './my.000033.component';
+import { My000034Component } from './my.000034.component';
+import { My000035Component } from './my.000035.component';
+import { My000036Component } from './my.000036.component';
+import { My000037Component } from './my.000037.component';
+import { My000038Component } from './my.000038.component';
+import { My000039Component } from './my.000039.component';
+import { My000040Component } from './my.000040.component';
+import { My000041Component } from './my.000041.component';
 
 @NgModule({
   declarations: [
-    My000011Component,
-    My000012Component,
-    My000013Component,
-    My000014Component,
-    My000015Component,
-    My000016Component,
-    My000017Component,
-    My000018Component,
-    My000019Component,
-    My000020Component,
     My000021Component,
+    My000022Component,
+    My000023Component,
+    My000024Component,
+    My000025Component,
+    My000026Component,
+    My000027Component,
+    My000028Component,
+    My000029Component,
+    My000030Component,
+    My000031Component,
+    My000032Component,
+    My000033Component,
+    My000034Component,
+    My000035Component,
+    My000036Component,
+    My000037Component,
+    My000038Component,
+    My000039Component,
+    My000040Component,
+    My000041Component,
   ],
   imports: [CommonModule],
   exports: [
-    My000011Component,
+    My000021Component,
   ]
 })
 export class Module000001 { }

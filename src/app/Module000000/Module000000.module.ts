@@ -14,6 +14,16 @@ import { My000007Component } from './my.000007.component';
 import { My000008Component } from './my.000008.component';
 import { My000009Component } from './my.000009.component';
 import { My000010Component } from './my.000010.component';
+import { My000011Component } from './my.000011.component';
+import { My000012Component } from './my.000012.component';
+import { My000013Component } from './my.000013.component';
+import { My000014Component } from './my.000014.component';
+import { My000015Component } from './my.000015.component';
+import { My000016Component } from './my.000016.component';
+import { My000017Component } from './my.000017.component';
+import { My000018Component } from './my.000018.component';
+import { My000019Component } from './my.000019.component';
+import { My000020Component } from './my.000020.component';
 
 @NgModule({
   declarations: [
@@ -28,6 +38,16 @@ import { My000010Component } from './my.000010.component';
     My000008Component,
     My000009Component,
     My000010Component,
+    My000011Component,
+    My000012Component,
+    My000013Component,
+    My000014Component,
+    My000015Component,
+    My000016Component,
+    My000017Component,
+    My000018Component,
+    My000019Component,
+    My000020Component,
   ],
   imports: [CommonModule],
   exports: [
