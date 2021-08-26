@@ -1,0 +1,6 @@
+<span>component {{myName}}<span *ngIf="parentName">,
+      parent is {{parentName}}</span></span>
+        <div style="padding-left: 15px">
+        <app-comp-006061 [parentName]="myName"></app-comp-006061>
+        <app-comp-006062 [parentName]="myName"></app-comp-006062>
+    </div>
